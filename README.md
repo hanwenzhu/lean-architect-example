@@ -1,7 +1,7 @@
-# lean-architect-example
+# LeanArchitect example
 
-This is an example Lean project where the blueprint content is extracted from Lean source, using the [lean-architect](https://github.com/hanwenzhu/lean-architect) tool.
+This is an example Lean project where the blueprint content is extracted from Lean source, using the [LeanArchitect](https://github.com/hanwenzhu/LeanArchitect) tool.
 
-The automatically generated project page, including the blueprint and dependency graph, is at https://hanwenzhu.github.io/lean-architect-example/.
+The automatically generated project page, including the blueprint and dependency graph, is at https://hanwenzhu.github.io/LeanArchitect-example/.
 
-Please see lean-architect for more information.
+Please see LeanArchitect for more information.

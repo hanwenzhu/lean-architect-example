@@ -1,11 +1,11 @@
 # Fdb version 4
-["pdflatex"] 1763664945.53155 "print.tex" "/Users/zhw/Developer/lean/lean-architect-example/blueprint/print/print.pdf" "print" 1763664946.26625 0
-  "../../.lake/build/blueprint/library/Example.tex" 1763664939.43801 202 1cf04cae41f279a0c24fbd790ad6cadc ""
-  "/Users/zhw/Developer/lean/lean-architect-example/.lake/build/blueprint/module/Example.tex" 1763664939.35265 919 2bc49cc435d01554aadedd6bb41f19e2 ""
-  "/Users/zhw/Developer/lean/lean-architect-example/.lake/build/blueprint/module/Example/MyNat.tex" 1763664939.35315 4403 e4f8914ba5a9e1163fdd70ce0c63d5bd ""
-  "/Users/zhw/Developer/lean/lean-architect-example/blueprint/print/../../.lake/build/blueprint/library/Example.tex" 1763664939.43801 202 1cf04cae41f279a0c24fbd790ad6cadc ""
-  "/Users/zhw/Developer/lean/lean-architect-example/blueprint/print/print.aux" 1763664946.04141 1204 5bf925e654dedff4c748353ff9559c84 "pdflatex"
-  "/Users/zhw/Developer/lean/lean-architect-example/blueprint/print/print.out" 1763664946.0417 504 88c668b6729ba648c6222117e66ad80e "pdflatex"
+["pdflatex"] 1763940452.98432 "print.tex" "/Users/zhw/Developer/lean/lean-architect-example/blueprint/print/print.pdf" "print" 1763940453.85285 0
+  "../../.lake/build/blueprint/library/Example.tex" 1763940448.1782 202 1cf04cae41f279a0c24fbd790ad6cadc ""
+  "/Users/zhw/Developer/lean/lean-architect-example/.lake/build/blueprint/module/Example.tex" 1763940448.10618 734 da2d372ed638b71eefa5f0601ff41928 ""
+  "/Users/zhw/Developer/lean/lean-architect-example/.lake/build/blueprint/module/Example/MyNat.tex" 1763940447.54604 3437 092f04893da7265ebec575b6cb3ce49c ""
+  "/Users/zhw/Developer/lean/lean-architect-example/blueprint/print/../../.lake/build/blueprint/library/Example.tex" 1763940448.1782 202 1cf04cae41f279a0c24fbd790ad6cadc ""
+  "/Users/zhw/Developer/lean/lean-architect-example/blueprint/print/print.aux" 1763940453.60976 1092 05303eaa0e39b4858013256176f90b2c "pdflatex"
+  "/Users/zhw/Developer/lean/lean-architect-example/blueprint/print/print.out" 1763940453.39809 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -49,6 +49,7 @@
   "/usr/local/texlive/2025/texmf-dist/tex/latex/base/report.cls" 1738182759 23203 7ac64169eac711b8259b91f4833984f3 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/base/size10.clo" 1738182759 8448 5cf247d4bd0c7d5d711bbbdf111fae2e ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/base/ts1enc.def" 1738182759 8090 bcb38b4f148e75e16d2c33225dbca53b ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/cleveref/cleveref.sty" 1525128982 329481 7fc6b003158402a4c694bc0a1b729308 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1739306980 46850 d87daedc2abdc653769a6f1067849fe0 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty" 1715459803 164981 148a15871e0e3c3101b8203733535af2 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.cfg" 1532898934 549 c4adac819276241fea8eb79c5ab7b99e ""
@@ -88,7 +89,7 @@
   "/usr/local/texlive/2025/texmf-var/web2c/xetex/xelatex.fmt" 1741450550 5639796 b6822fbf027c6598cec2e241e0925725 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
   "content.tex" 1758744502.61306 508 ea2023d66fa098e0f43e9cc9f04c4f9d ""
-  "macros/common.tex" 1758744502.61329 820 60fafcc3aa944a5e60030581a943ef6b ""
+  "macros/common.tex" 1763939970.44167 843 09e2b259a0dd948b6e38ad432ddf8bde ""
   "macros/print.tex" 1758744502.61336 1101 87627b2ec24fef68edc71c13f43f7bab ""
   "print.tex" 1763664598.86657 1120 646d8adf2b11ef15bbd6b967c9c5aecb ""
   (generated)

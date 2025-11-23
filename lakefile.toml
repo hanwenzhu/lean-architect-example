@@ -1,8 +1,8 @@
-name = "lean-architect-example"
+name = "LeanArchitect-example"
 defaultTargets = ["Example"]
 
 [[require]]
-name = "lean-architect"
+name = "LeanArchitect"
 git = "https://github.com/hanwenzhu/lean-architect"
 rev = "main"
 

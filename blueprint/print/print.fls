@@ -127,6 +127,8 @@ INPUT ./macros/common.tex
 INPUT ./macros/common.tex
 INPUT ./macros/common.tex
 INPUT macros/common.tex
+INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/cleveref/cleveref.sty
+INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/cleveref/cleveref.sty
 INPUT ./macros/print.tex
 INPUT ./macros/print.tex
 INPUT ./macros/print.tex
